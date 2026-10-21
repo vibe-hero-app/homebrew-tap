@@ -8,8 +8,8 @@
 class VibeHero < Formula
   desc "Kanban board that runs Claude Code on your cards"
   homepage "https://vibehero.platinumvertical.com"
-  url "https://vibehero.platinumvertical.com/v1/releases/2.5.4/vibe-hero-2.5.4.tar.gz"
-  sha256 "665c9068306e921c5f959050e2972d72e7f37c32f9f362c1b91c0e767538c2dd"
+  url "https://vibehero.platinumvertical.com/v1/releases/2.5.5/vibe-hero-2.5.5.tar.gz"
+  sha256 "1ad359579968b35a02bf89517074dc99e933a71af83592dd9ee0b8a43b64dc21"
   # Proprietary: the end-user agreement ships in the release as EULA.md.
   license :cannot_represent
 
